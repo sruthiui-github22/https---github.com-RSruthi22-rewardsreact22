@@ -1,0 +1,85 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+}
+  
+.column {
+    flex: 30%;
+    margin-left: 3%;
+}
+
+.mainpage {
+	width: 650px;
+	transition: width 0.3s ease-in-out;
+	height: 100vh;
+	background-color: rgb(125, 233, 152);
+	padding-top: 28px;
+}
+
+.navside {
+	width: 250px;
+	transition: width 0.3s ease-in-out;
+	height: 100vh;
+	background-color: rgb(181, 183, 216);
+	padding-top: 28px;
+}
+
+.navsideClosed {
+	composes: navside;
+	transition: width 0.3s ease-in-out;
+	width: 60px
+}
+
+.sideitem {
+	display: flex;
+	align-items: center;
+	padding: 10px 20px;
+	cursor: pointer;
+	color: #B2BAC2;
+	text-decoration: none;
+}
+
+.linkText {
+	padding-left: 16px;
+}
+
+.linkTextClosed {
+	composes: linkText;
+	visibility: hidden;
+}
+
+.sideitem:hover {
+	background-color: #244f7d1c;
+}
+
+.menuBtn {
+	align-self: center;
+	align-self: flex-start; 
+	justify-self: flex-end;
+	color: #B2BAC2;
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+	padding-left: 20px;
+}
+
+.deleteBtn {
+    font-size: large;
+	align-self: center;
+	align-self: flex-start; 
+	justify-self: flex-end;
+	color: rgb(250, 152, 152)  ;
+	background-color: rgb(8, 1, 33);
+	border: transparent ;
+	cursor: pointer;
+	padding-left: 20px;
+}
+
+.tableContainer{
+    background-color: #1E1F25;
+    border-radius: 5px;
+    height: 300px;
+    padding: 0 10px 10px 10px;
+    overflow: scroll;
+}

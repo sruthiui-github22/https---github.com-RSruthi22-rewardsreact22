@@ -1,0 +1,212 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "cid": 101,
+      "cname": "Alice"
+    },
+    {
+      "id": 2,
+      "cid": 102,
+      "cname": "Bob"
+    },
+    {
+      "id": 3,
+      "cid": 103,
+      "cname": "Carol"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "tid": 201,
+      "tdate": "2022-10-05",
+      "tname": "Alice",
+      "tamount": 200
+    },
+    {
+      "tname": "Bob",
+      "tdate": "2022-10-12",
+      "tamount": "350",
+      "tid": "D1znj30Yzn7Po6eligAeM",
+      "id": 2
+    },
+    {
+      "tname": "Carol",
+      "tdate": "2022-11-10",
+      "tamount": "100",
+      "tid": "MCakGwQZUFv5cDASH4mOH",
+      "id": 3
+    },
+    {
+      "tname": "Bob",
+      "tdate": "2022-10-25",
+      "tamount": "900",
+      "tid": "NkrA66xDlU4l_KcYQtRa9",
+      "id": 4
+    },
+    {
+      "tname": "Alice",
+      "tdate": "2022-11-17",
+      "tamount": "35",
+      "tid": "XVLqyl3ih_-vTJxDf-gJ-",
+      "id": 5
+    },
+    {
+      "tname": "Carol",
+      "tdate": "2022-12-10",
+      "tamount": "67",
+      "tid": "vpatPCtV3YWJ1CCxElIxN",
+      "id": 6
+    },
+    {
+      "tname": "Alice",
+      "tdate": "2022-11-12",
+      "tamount": "89",
+      "tid": "HO7RJ6gKCNjhBCZBg7V40",
+      "id": 7
+    },
+    {
+      "tname": "Bob",
+      "tdate": "2022-12-02",
+      "tamount": "450",
+      "tid": "Re1UmdmiVBO0-eyejeqon",
+      "id": 8
+    },
+    {
+      "tname": "Carol",
+      "tdate": "2022-12-14",
+      "tamount": "390",
+      "tid": "ldbcMEdJREcsMGMHo0Sar",
+      "id": 9
+    },
+    {
+      "tname": "Carol",
+      "tdate": "2022-12-29",
+      "tamount": "420",
+      "tid": "Jn5zdJ-U5ixXevwNfohZ1",
+      "id": 10
+    },
+    {
+      "tname": "Alice",
+      "tdate": "2022-12-09",
+      "tamount": "120",
+      "tid": "zIGl0ukr8MqRRci6nk0EA",
+      "id": 11
+    },
+    {
+      "tname": "Alice",
+      "tdate": "2022-11-13",
+      "tamount": "149",
+      "tid": "7g9HN7sqOsC2vpsDej2qv",
+      "id": 12
+    },
+    {
+      "tname": "Carol",
+      "tdate": "2022-10-24",
+      "tamount": "200",
+      "tid": "UTMyUWxeBi42d2FbXPuxj",
+      "id": 13
+    },
+    {
+      "tname": "Bob",
+      "tdate": "2022-12-28",
+      "tamount": "143",
+      "tid": "9M7F6Mx-EKmivJVVLajT7",
+      "id": 14
+    }
+  ],
+  "rewards": [
+    {
+      "rname": "Bob",
+      "rdate": "2022-12-23",
+      "reward": 51,
+      "rid": "MhYClmWFj72NjHyqvkMUd",
+      "id": 17
+    },
+    {
+      "rname": "Bob",
+      "rdate": "2022-10-12",
+      "reward": 550,
+      "rid": "b0VjGYQ0FP5xSKFPX0bPs",
+      "id": 18
+    },
+    {
+      "rname": "Carol",
+      "rdate": "2022-11-10",
+      "reward": 50,
+      "rid": "fihgFJ1oyRnNq8sL_VlJx",
+      "id": 19
+    },
+    {
+      "rname": "Bob",
+      "rdate": "2022-10-25",
+      "reward": 1650,
+      "rid": "Lhf3YPg6J6xFf_-giNTRb",
+      "id": 20
+    },
+    {
+      "rname": "Carol",
+      "rdate": "2022-12-10",
+      "reward": 17,
+      "rid": "Xax3b9mKPUY5lfsbnD__n",
+      "id": 21
+    },
+    {
+      "rname": "Alice",
+      "rdate": "2022-11-12",
+      "reward": 39,
+      "rid": "3iIuQpNnrz5sN7Lx94FUj",
+      "id": 22
+    },
+    {
+      "rname": "Bob",
+      "rdate": "2022-12-02",
+      "reward": 750,
+      "rid": "Wz1AGXCV870NURM6DILks",
+      "id": 23
+    },
+    {
+      "rname": "Carol",
+      "rdate": "2022-12-14",
+      "reward": 630,
+      "rid": "zrKwk2qC27WGsQTTvO10i",
+      "id": 24
+    },
+    {
+      "rname": "Carol",
+      "rdate": "2022-12-29",
+      "reward": 690,
+      "rid": "e0pWy0arWOaNIxZkupoyJ",
+      "id": 25
+    },
+    {
+      "rname": "Alice",
+      "rdate": "2022-12-09",
+      "reward": 90,
+      "rid": "IJl_pS-vz9OKnZV01hnLm",
+      "id": 26
+    },
+    {
+      "rname": "Alice",
+      "rdate": "2022-11-13",
+      "reward": 148,
+      "rid": "69WkhQqPAewd_lQtKi1qh",
+      "id": 27
+    },
+    {
+      "rname": "Carol",
+      "rdate": "2022-10-24",
+      "reward": 250,
+      "rid": "jUYkOBo35eu9v6gJDmVRM",
+      "id": 28
+    },
+    {
+      "rname": "Bob",
+      "rdate": "2022-12-28",
+      "reward": 136,
+      "rid": "lGjx-rY8FjRiG7ZLPXWnm",
+      "id": 29
+    }
+  ]
+}
